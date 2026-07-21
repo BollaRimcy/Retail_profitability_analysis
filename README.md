@@ -1,6 +1,5 @@
 # Retail Business Performance & Profitability Analysis
 
-**Elevate Labs — Data Analyst Internship Final Project**
 
 ## Objective
 Analyze transactional retail data to uncover profit-draining categories, examine the relationship between fulfillment speed and profitability, and identify seasonal/regional sales patterns.
