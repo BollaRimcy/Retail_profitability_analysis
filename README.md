@@ -36,4 +36,4 @@ Retail Superstore order-level dataset — 8,399 transactions (2009–2012), cove
 Audit discount policy on Furniture (Tables/Bookcases), review regional pricing in Nunavut/Yukon, and consider repricing or discontinuing the worst-performing sub-categories.
 
 ## Full Report
-See `report/Retail_Profitability_Analysis_Report.pdf` for the full 2-page write-up.
+See `report/Retail_Profitability_Analysis_Report.pdf` for full report.
